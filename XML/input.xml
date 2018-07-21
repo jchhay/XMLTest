@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Parent>
+<Child id = "1">
+		<Name>Kitty</Name></Child>
+<Child id = "2">
+		<Name>BigFoot</Name></Child>
+	<Child id = "3">
+		<Name>Crooked Eye</Name></Child>
+
+</Parent>
